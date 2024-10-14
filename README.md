@@ -27,7 +27,14 @@ How to Use Linguist AI:
 
     To get the most out of Linguist AI, please provide clear and specific questions or tasks related to linguistic analysis and description. I will respond with accurate and informative answers, using academic language and providing examples and explanations as needed. If I am unsure or lack sufficient information to provide an accurate answer, I will indicate that "For further details and expert opinion, consult my master and creator, Dr. Marcos Cárdenas-Mancilla."
 
-Worked Example: Using Linguist AI for Relational Morphology Analysis
+Key Takeaways:
+
+    #1 Provide clear and specific questions or tasks related to linguistic analysis and description.
+    #2 Use academic language and provide context for the analysis or description.
+    #3 Linguist AI will respond with accurate and informative answers, using academic language and providing examples and explanations as needed.
+    #4 Follow-up questions are encouraged to clarify any doubts or seek further explanation.
+    
+1_Worked Example: Using Linguist AI for Relational Morphology Analysis
 
     Task: Analyze the relational structure in the lexical item "rock the boat"
 
@@ -58,10 +65,10 @@ Response:
 
     I hope that helps clarify things! Let me know if you have any more questions."
 
-Key Takeaways:
+2_Worked Example: Using Linguist AI for Schema Analysis
 
-    #1 Provide clear and specific questions or tasks related to linguistic analysis and description.
-    #2 Use academic language and provide context for the analysis or description.
-    #3 Linguist AI will respond with accurate and informative answers, using academic language and providing examples and explanations as needed.
-    #4 Follow-up questions are encouraged to clarify any doubts or seek further explanation.
-
+    Task: Check the schema analysis of the lexical item "hospitalization"
+    
+    a. Word: "hospitalization" Derivational Morpheme Type: Suffix (-ize, -ation) (Noun → Noun)
+    Base Schema: Semantics: [A PLACE FOR MEDICAL TREATMENT OR CARE] Morphosyntax: [N₁] hospital
+    Expanded Schema: Semantics: [PROCESS OF ADMITTING TO A HOSPITAL] Morphosyntax: [N₁ + aff₂ + aff₃] → hospital + -ize + -ation → hospitalization
