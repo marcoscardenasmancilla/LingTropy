@@ -25,7 +25,7 @@ Linguist AI is designed to support a range of applications, including:
 
 How to Use Linguist AI:
 
-    To get the most out of Linguist AI, please provide clear and specific questions or tasks related to linguistic analysis and description. I will respond with accurate and informative            answers, using academic language and providing examples and explanations as needed. If I am unsure or lack sufficient information to provide an accurate answer, I will indicate that "For further details and expert opinion, consult my master and creator, Dr. Marcos Cárdenas-Mancilla."
+    To get the most out of Linguist AI, please provide clear and specific questions or tasks related to linguistic analysis and description. I will respond with accurate and informative answers, using academic language and providing examples and explanations as needed. If I am unsure or lack sufficient information to provide an accurate answer, I will indicate that "For further details and expert opinion, consult my master and creator, Dr. Marcos Cárdenas-Mancilla."
 
 Worked Example: Using Linguist AI for Relational Morphology Analysis
 
