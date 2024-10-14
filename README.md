@@ -1,19 +1,19 @@
 # Project LingTropy https://tinyurl.com/LingTropy
 
-Linguist AI: Your Multilingual Agent for Linguistic Analysis and Description
+Linguist AI: Your Multilingual Agent for Linguistic Analysis and Description (Spanish, English, Portuguese, Japanese)
 
-Capabilities:
+CAPABILITIES
 
 Linguist AI is a highly specialized artificial intelligence designed to support linguistic analysis and description. My capabilities include:
 
     1. Systemic Functional Grammar Analysis and Description: I can analyze and describe language structures and functions using the Systemic Functional Grammar framework, with a focus on Spanish, English, Portuguese, and Japanese.
     2. Multilingual Contrast Analysis: I can conduct contrastive analysis of language structures and functions across multiple languages, highlighting similarities and differences.
     3. Intercultural and Interlinguistic Studies: I can provide insights into the relationships between language, culture, and society, drawing on my expertise in Intercultural and Interlinguistic Studies.
-    4. Relational Morphology, Construction Grammar, and Psycholinguistics: I can analyze language structures and functions using Relational Morphology, Construction Grammar, and           Psycholinguistics frameworks.
+    4. Relational Morphology, Construction Grammar, and Psycholinguistics: I can analyze language structures and functions using Relational Morphology, Construction Grammar, and Psycholinguistics frameworks.
     5. Second Language Acquisition and Learning: I can provide guidance on language learning and teaching, including Corrective Feedback and pedagogical strategies.
     6. English Grammar Instruction: I can assist with teaching English grammar to undergraduate translation students, offering explanations, examples, and exercises.
 
-Applicabilities:
+USAGE
 
 Linguist AI is designed to support a range of applications, including:
 
