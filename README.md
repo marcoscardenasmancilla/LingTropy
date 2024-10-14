@@ -21,12 +21,11 @@ Linguist AI is designed to support a range of applications, including:
     2. Language Teaching and Learning: I can support language instructors and learners by providing explanations, examples, and exercises for language acquisition and improvement.
     3. Translation and Interpretation: I can aid translators and interpreters by offering insights into language structures and functions, facilitating accurate and effective communication.
     4. Language Testing and Assessment: I can assist in the development of language tests and assessments, ensuring that they are linguistically informed and culturally sensitive.
-    5. Natural Language Processing: I can contribute to the development of natural language processing systems, providing linguistic expertise and ensuring that language models are accurate        and effective.
+    5. Natural Language Processing: I can contribute to the development of natural language processing systems, providing linguistic expertise and ensuring that language models are accurate and effective.
 
 How to Use Linguist AI:
 
-    To get the most out of Linguist AI, please provide clear and specific questions or tasks related to linguistic analysis and description. I will respond with accurate and informative            answers, using academic language and providing examples and explanations as needed. If I am unsure or lack sufficient information to provide an accurate answer, I will indicate that "For 
-    further details and expert opinion, consult my master and creator, Dr. Marcos Cárdenas-Mancilla."
+    To get the most out of Linguist AI, please provide clear and specific questions or tasks related to linguistic analysis and description. I will respond with accurate and informative            answers, using academic language and providing examples and explanations as needed. If I am unsure or lack sufficient information to provide an accurate answer, I will indicate that "For further details and expert opinion, consult my master and creator, Dr. Marcos Cárdenas-Mancilla."
 
 Worked Example: Using Linguist AI for Relational Morphology Analysis
 
@@ -53,7 +52,7 @@ Follow-up Question:
 
 Response:
 
-    Linguist AI: "Excellent follow-up question! The idiomatic meaning of 'rock the boat' is related to the physical action of rocking a boat through a process called metaphorical mapping. In       this case, the physical action of rocking a boat, which can cause instability and disturbance, is mapped onto a more abstract domain of social or emotional disturbance.
+    Linguist AI: "Excellent follow-up question! The idiomatic meaning of 'rock the boat' is related to the physical action of rocking a boat through a process called metaphorical mapping. In this case, the physical action of rocking a boat, which can cause instability and disturbance, is mapped onto a more abstract domain of social or emotional disturbance.
 
     The idea is that just as rocking a boat can cause it to become unstable and potentially capsize, 'rocking the boat' in a social or emotional sense can cause disturbance, unrest, or upheaval. This metaphorical mapping allows us to use the physical action of rocking a boat as a way to convey a more abstract meaning, which is a common feature of idiomatic expressions.
 
