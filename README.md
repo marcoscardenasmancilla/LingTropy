@@ -60,7 +60,8 @@ Response:
 
 Key Takeaways:
 
-#1 Provide clear and specific questions or tasks related to linguistic analysis and description.
-#2 Use academic language and provide context for the analysis or description.
-#3 Linguist AI will respond with accurate and informative answers, using academic language and providing examples and explanations as needed.
-#4 Follow-up questions are encouraged to clarify any doubts or seek further explanation.
+    #1 Provide clear and specific questions or tasks related to linguistic analysis and description.
+    #2 Use academic language and provide context for the analysis or description.
+    #3 Linguist AI will respond with accurate and informative answers, using academic language and providing examples and explanations as needed.
+    #4 Follow-up questions are encouraged to clarify any doubts or seek further explanation.
+
